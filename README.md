@@ -9,6 +9,7 @@ I made a few accessibility enhancements:
   
 Credit goes to WLKRE  
   
+**Preview:**  
 <img width="512" height="512" alt="windows-0" src="https://github.com/user-attachments/assets/64dc1549-65d8-404d-977b-e76efab141ec" />  
 <img width="1920" height="1080" alt="windows-1" src="https://github.com/user-attachments/assets/dcc91ff3-8531-4c0e-b93d-d75f68e6c51a" />  
 <img width="1920" height="1080" alt="windows-2" src="https://github.com/user-attachments/assets/00fa5a61-bf23-4a22-a95a-438b8cc5ec3e" />  
